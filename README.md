@@ -1,33 +1,35 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=600&lines=Konstantin+Suprun+%2F+aevar;Python+Developer+%C2%B7+LLM+%C2%B7+ML;Moscow%2C+Russia" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=600&lines=%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD+%D0%A1%D1%83%D0%BF%D1%80%D1%83%D0%BD+%2F+aevar;Python-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%C2%B7+LLM+%C2%B7+ML;%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" alt="Typing SVG" />
 
 <br/>
 
 [![Telegram](https://img.shields.io/badge/Telegram-@sprkon-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sprkon)
 
+**Русский** &nbsp;·&nbsp; [English](https://github.com/a3v4r/a3v4r/blob/main/README.en.md)
+
 </div>
 
 ---
 
-## Core Expertise
+## Чем занимаюсь
 
-| Area | Focus | Tech Stack |
+| Направление | Что делаю | Стек |
 |------|-------|------------|
-| **Backend & DevOps** | Production for FastAPI: zero-downtime deploys, backups, monitoring | FastAPI, PostgreSQL, Docker, nginx, GitHub Actions |
-| **AI & LLM** | RAG over company documents on local LLMs | RAG, Qdrant, local LLMs, Docker |
-| **ML & Data** | Ranking, computer vision, tabular models | PyTorch, LightGBM, pandas, NumPy |
-| **Game Servers** | CS2 tournament tooling, server plugins, RCON | TypeScript, Next.js, C# |
+| **Бэкенд и DevOps** | Прод для FastAPI: выкладка без простоя, бэкапы, мониторинг | FastAPI, PostgreSQL, Docker, nginx, GitHub Actions |
+| **ИИ и LLM** | RAG по документам компании на локальных LLM | RAG, Qdrant, локальные LLM, Docker |
+| **ML и данные** | Ранжирование, компьютерное зрение, табличные модели | PyTorch, LightGBM, pandas, NumPy |
+| **Игровые серверы** | Турнирные инструменты для CS2, серверные плагины, RCON | TypeScript, Next.js, C# |
 
 ---
 
-## Stack
+## Стек
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
-**Backend / DevOps**
+**Бэкенд / DevOps**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -42,7 +44,7 @@
 </td>
 <td valign="top" width="33%">
 
-**ML & Data**
+**ML и данные**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square)
@@ -53,7 +55,7 @@
 </td>
 <td valign="top" width="33%">
 
-**AI Specialized**
+**ИИ**
 
 ![LLM](https://img.shields.io/badge/Local_LLM-4a4a4a?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG_Systems-FFD21E?style=flat-square)
@@ -66,32 +68,32 @@
 
 ---
 
-## Projects
+## Проекты
 
-**FastAPI Production** &nbsp;·&nbsp; Client project, code is private
-> 2 app servers behind nginx · **PostgreSQL + PostGIS** · Zero-downtime deploys via GitHub Actions · Backups with ≤5 min data loss · Load test: 80 RPS at 0.03% errors · Server killed under load: 2 errors out of 38,000 requests
+**Прод для FastAPI-бэкенда** &nbsp;·&nbsp; Заказ, код закрыт
+> 2 сервера приложения за nginx · **PostgreSQL + PostGIS** · Выкладка без простоя через GitHub Actions · Бэкапы с потерей не больше 5 минут · Нагрузочный тест: 80 запросов в секунду при 0,03% ошибок · Выключили сервер под нагрузкой: 2 ошибки из 38 000 запросов
 
-**Avito ML Cup 2026** &nbsp;·&nbsp; Personalized feed ranking, team
-> NDCG ranking · **LightGBM ranker + PyTorch sequence models** · My part: user-history networks and TabM, fed into the ranker and the final blend · Code goes public after the final
+**Avito ML Cup 2026** &nbsp;·&nbsp; Персональное ранжирование ленты, команда
+> Ранжирование по NDCG · **LightGBM-ранкер + нейросети на PyTorch** · Моя часть: сети по истории пользователя и TabM, их предсказания идут в ранкер и итоговую смесь · Код откроем после финала
 
-**Expedition Data Science** &nbsp;·&nbsp; Archaeological sites on satellite imagery, team
-> Detection of hillforts and burial mounds on satellite and aerial images · **PyTorch** · Computer vision
+**Экспедиция Data Science** &nbsp;·&nbsp; Археологические объекты на снимках, команда
+> Поиск городищ и курганов на спутниковых и аэроснимках · **PyTorch** · Компьютерное зрение
 
-**Aikor** &nbsp;·&nbsp; Co-founder, private
-> AI search and chat over company documents on a local LLM, fully offline · **RAG + Qdrant** · Per-department access, user audit log, backups of every store · Document ingest sped up 30x
+**Aikor** &nbsp;·&nbsp; Сооснователь, код закрыт
+> ИИ-поиск и чат по документам компании на локальной LLM, без интернета · **RAG + Qdrant** · Доступ по отделам, аудит действий пользователей, бэкапы всех хранилищ · Загрузка документов ускорена в 30 раз
 
-**[Matchdesk](https://github.com/a3v4r/Matchdesk)** &nbsp;·&nbsp; CS2 LAN tournament panel
-> CS2 server, plugins and matches run from the browser · **TypeScript + Next.js** · RCON · A university tournament was run on it
+**[Matchdesk](https://github.com/a3v4r/Matchdesk)** &nbsp;·&nbsp; Панель для LAN-турниров по CS2
+> Сервер CS2, плагины и матчи управляются из браузера · **TypeScript + Next.js** · RCON · На этом наборе провели турнир в университете
 
-**[cs2_predictor](https://github.com/a3v4r/cs2_predictor)** &nbsp;·&nbsp; CS2 match outcome prediction
-> ID3, C4.5 and CART written from scratch in **NumPy** · Compared against library models · Tests included
+**[cs2_predictor](https://github.com/a3v4r/cs2_predictor)** &nbsp;·&nbsp; Предсказание исходов матчей CS2
+> ID3, C4.5 и CART написаны с нуля на **NumPy** · Сравнение с библиотечными моделями · Есть тесты
 
 **[GPTHub](https://github.com/a3v4r/GPTHub)** &nbsp;·&nbsp; True Tech Hack 2026
-> Single OpenWebUI interface to multiple models and tools for employees · **Python + Docker**
+> Единый интерфейс на OpenWebUI к нескольким моделям и инструментам для сотрудников · **Python + Docker**
 
 ---
 
-## Stats
+## Статистика
 
 <div align="center">
 
@@ -111,6 +113,6 @@
 
 <div align="center">
 
-*Python backend, LLM and ML · Open to internships and part-time roles*
+*Бэкенд на Python, LLM и ML · Открыт к стажировкам и частичной занятости*
 
 </div>
