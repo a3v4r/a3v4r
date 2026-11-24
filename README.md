@@ -79,7 +79,7 @@
 **Expedition Data Science** &nbsp;·&nbsp; Archaeological sites on satellite imagery, team
 > Detection of hillforts and burial mounds on satellite and aerial images · **PyTorch** · Computer vision
 
-**Aikor** &nbsp;·&nbsp; Co-founder, private
+**Aikor** &nbsp;·&nbsp; Own project, private
 > AI search and chat over company documents on a local LLM, fully offline · **RAG + Qdrant** · Per-department access, user audit log, backups of every store · Document ingest sped up 30x
 
 **[Matchdesk](https://github.com/a3v4r/Matchdesk)** &nbsp;·&nbsp; CS2 LAN tournament panel
